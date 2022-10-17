@@ -1,0 +1,14 @@
+## jupyter 노트북에서 파일을 실행시켰을 때 생성되는
+## *-checkpoint.ipynb 파일과 .ipython_checkpoints 폴더 무시
+**/*-checkpoint.*
+**/.ipython_checkpoints
+
+## src/data/zips에 있는 압축파일들 무시
+src/data/zips/*.*
+
+## selenium을 활용하기 위한 chromedriver 파일 무시
+src/ContentsBased/driver/*
+
+## Zomato 사이트에서 스크래핑한 데이터 무시
+src/data/zomato/scraping_datas
+
