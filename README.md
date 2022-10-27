@@ -20,6 +20,9 @@
 - **최지훈** : <a href="https://github.com/ji-hun-choi">
     <img src="https://github.com/ji-hun-choi.png"
     width="25"></a>
+- **정현석** : <a href="https://github.com/Aramir94">
+    <img src="https://github.com/Aramir94.png"
+    width="25"></a>
 ---
 
 
