@@ -2,13 +2,16 @@
 ## *-checkpoint.ipynb 파일과 .ipython_checkpoints 폴더 무시
 **/*-checkpoint.*
 **/.ipython_checkpoints
+**/*-checkpoint
 
-## src/data/zips에 있는 압축파일들 무시
-src/data/zips/*.*
+## data/zips에 있는 압축파일들 무시
+data/zips/*.*
 
 ## selenium을 활용하기 위한 chromedriver 파일 무시
-src/ContentsBased/driver/*
+src/zomato_scragging/driver/*
 
 ## Zomato 사이트에서 스크래핑한 데이터 무시
-src/data/zomato/scraping_datas
+data/zomato/scraping_datas
 
+**/*.txt
+**/*.zip
